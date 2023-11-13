@@ -62,10 +62,15 @@ In this project the dataset, sourced from the National Institute of Diabetes and
 
 ## Results
 
-<img src="./images/result1.png" height="540" width="340">
-<img src="./images/result2.png" height="540" width="340">
+<p align="center">
+<img src="./images/result1.png" height="540" width="720">
+</p>
 
 ---
+
+<p align="center">
+<img src="./images/result2.png" height="540" width="720">
+</p>
 
 ## Diabetes Prediction System
 
