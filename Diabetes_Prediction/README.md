@@ -119,7 +119,11 @@ To install this prediction system into your local system to use, follow below st
 
 <p align="center">
 <img src="./images/home_page.png" alt="home page" width="720">
-<hr>
+</p>
+
+---
+
+<p align="center">
 <img src="./images/main_page.png" alt="main page" width="720">
 </p>
 
