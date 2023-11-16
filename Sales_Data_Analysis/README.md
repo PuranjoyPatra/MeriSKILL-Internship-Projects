@@ -14,6 +14,7 @@ This repository contains the source code and documentation for a Sales Data Anal
 
 - [Introduction](#introduction)
 - [Key Achievements](#key-achievements)
+- [Tools](#tools)
 - [ETL Process](#extract-transform-and-load-etl-process)
 - [Data Visualization](#data-visualization)
 - [KPI](#kpi)
@@ -29,6 +30,10 @@ Analyse sales data to pinpoint emerging trends, top-performing products, and ess
 ## Key Achievements
 
 In this project, examine a large sales dataset to extract valuable insights. Explore sales trends over time, identify the best-selling products, calculate revenue metrics such as total sales and profit margins, and create visualizations to present the findings effectively.
+
+## Tools
+
+- Power BI Desktop -> [Download](https://powerbi.microsoft.com/en-in/desktop/)
 
 ## Extract, Transform and Load (ETL) Process
 In this project, ETL process involved the following key steps:

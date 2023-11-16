@@ -1,4 +1,4 @@
-# 📊Diabetes Prediction for patients
+# Diabetes Prediction for patients
 
 ## Overview
 
@@ -12,10 +12,10 @@ Hre is the source code and documentation for ***Diabetes Prediction System for p
 
 ## Table of Contents
 
-- [Introduction](#🔍introduction)
-- [Key Achievements](#🌟key-achievements)
+- [Introduction](#introduction)
+- [Key Achievements](#key-achievements)
 - [Methodology](#methodology)
-- [Tools and Framewor](#🛠️tools-and-framework)
+- [Tools and Framewor](#tools-and-framework)
 - [EDA Process](#exploratory-data-analysis-eda-process)
 - [Results](#results)
 - [Diabetes Prediction System](#diabetes-prediction-system)
@@ -25,11 +25,11 @@ Hre is the source code and documentation for ***Diabetes Prediction System for p
 
 
 
-## 🔍Introduction
+## Introduction
 
 In this project the dataset, sourced from the National Institute of Diabetes and Digestive and Kidney Diseases, is designed to achieve the diagnostic prediction of diabetes in patients. It leverages specific diagnostic measurements contained within the dataset to make these predictions.
 
-## 🌟Key Achievements
+## Key Achievements
 
 ### Data Exploration : 
 - Started with dataset in (.csv) format, which comprised several variables, including multiple independent medical predictor variables, and a single target dependent variable called 'Outcome'.
@@ -46,7 +46,7 @@ In this project the dataset, sourced from the National Institute of Diabetes and
 ## Methodology
 - I have applied ***Logistic Regression*** (Method for predicting the probability of a binary outcome using the logistic function) Machine Learning algorithm to build the prediction model. And I have also built a **"Diabetes Prediction System"** web app with the model to predict diabetes by providing medical information. 
 
-## 🛠️Tools and Framework
+## Tools and Framework
  - Python Libraries (Pandas, Numpy, Seaborn, Scikit-learn, Matplotlib)
  - Jupyter Notebook
  - Django (for web app)
@@ -102,7 +102,7 @@ To install this prediction system into your local system to use, follow below st
 
 
 - Step 3: Download the dataset (.csv file) from [Data Source](#data-source). From current directory move into *"DiabetesPredictionSystem"* folder, open *"views.py"* file and edit dataset path according to your file location. 
-- Step 4: open terminal in VS Code and install python libraries and django as mentioned [Tools and Framework](#🛠️tools-and-framework) section. ***(Note: if already installed, you can skip this step)***
+- Step 4: open terminal in VS Code and install python libraries and django as mentioned [Tools and Framework](#tools-and-framework) section. ***(Note: if already installed, you can skip this step)***
 
     ```python
     #install important python libraries
