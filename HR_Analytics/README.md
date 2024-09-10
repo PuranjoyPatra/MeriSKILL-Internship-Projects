@@ -13,6 +13,7 @@ This repository contains the source code and documentation for a ***HR Analytics
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Live Dashboard](#live-dashboard)
 - [Tools](#tools)
 - [ETL Process](#extract-transform-and-load-etl-process)
 - [Data Visualization](#data-visualization)
@@ -25,6 +26,10 @@ This repository contains the source code and documentation for a ***HR Analytics
 ## Introduction
 
 Analyse employee attrition details to enhance organization's ability to attract, retain, nurture top talent and engaged workforce with more productive environment.
+
+## Live Dashboard
+
+To interact with the dashboard click here 👉🏻 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDEwNGM2MGQtYzlmMy00OGY2LWI3NDEtZjA0YTllNjIwZTg4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) 
 
 ## Tools
 
