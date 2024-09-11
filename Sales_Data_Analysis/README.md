@@ -13,6 +13,7 @@ This repository contains the source code and documentation for a Sales Data Anal
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Live Dashboard](#live-dashboard)
 - [Key Achievements](#key-achievements)
 - [Tools](#tools)
 - [ETL Process](#extract-transform-and-load-etl-process)
@@ -26,6 +27,10 @@ This repository contains the source code and documentation for a Sales Data Anal
 ## Introduction
 
 Analyse sales data to pinpoint emerging trends, top-performing products, and essential revenue metrics, facilitating informed and strategic business decision-making.
+
+## Live Dashboard
+
+To interact with the dashboard click here 👉🏻 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmY4YTdiZDAtOGZkMS00NmRiLTlkZjctNmZmNzBjYjhiMzQyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 ## Key Achievements
 
